@@ -2,7 +2,7 @@
 //  quizApp.swift
 //  quiz
 //
-//  Created by Red Whale inc. on 26/11/2024.
+//  Created by Red Whale inc. on 10/12/2024.
 //
 
 import SwiftUI
